@@ -7,6 +7,19 @@ public class Programa {
         // Ex05.executar();
         // Ex06.executar();
         // Ex07.executar();
-        Ex08.executar();
+        // Ex08.executar();
+        Ex09.executar();
+        // Ex010.executar();
+        // Ex011.executar();
+        // Ex012.executar();
+        // Ex013.executar();
+        // Ex014.executar();
+        // Ex015.executar();
+        // Ex016.executar();
+        // Ex017.executar();
+        // Ex018.executar();
+        // Ex019.executar();
+        // Ex020.executar();
+
     }
 }
