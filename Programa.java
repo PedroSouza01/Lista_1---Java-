@@ -9,17 +9,17 @@ public class Programa {
         // Ex07.executar();
         // Ex08.executar();
         // Ex09.executar();
-        Ex10.executar();
-        // Ex011.executar();
-        // Ex012.executar();
-        // Ex013.executar();
-        // Ex014.executar();
-        // Ex015.executar();
-        // Ex016.executar();
-        // Ex017.executar();
-        // Ex018.executar();
-        // Ex019.executar();
-        // Ex020.executar();
+        // Ex10.executar();
+        Ex11.executar();
+        // Ex12.executar();
+        // Ex13.executar();
+        // Ex14.executar();
+        // Ex15.executar();
+        // Ex16.executar();
+        // Ex17.executar();
+        // Ex18.executar();
+        // Ex19.executar();
+        // Ex20.executar();
 
     }
 }
