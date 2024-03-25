@@ -23,14 +23,3 @@ public class Ex11 {
         scan.close();
     }
 }
-
-/*
- * System.out.println("Digite o primeiro número: ");
- * int num1 = scan.nextInt();
- * 
- * System.out.println("Digite o segundo número: ");
- * int num2 = scan.nextInt();
- * 
- * System.out.println("Digite o terceiro número: ");
- * int num3 = scan.nextInt();
- */
